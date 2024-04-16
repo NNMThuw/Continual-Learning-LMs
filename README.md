@@ -4,6 +4,12 @@
 
 **Technical Requirements:** Python, PyTorch, Transformer,...
 
+**Team Members:** 
++ Vo Thi Khanh Linh
++ Nguyen Nhat Minh Thu
++ Pham Nhat Hao
++ Tran Duc Trung
+
 **Descriptions**:
 + Employed the *OpenOrca* dataset, encompassing English and Vietnamese data, for the Question Answering task
 + Implemented fine-tuning of the *TinyLlama2* model utilizing *Quantization Low Rank Adaptation* (QLoRA) techniques
